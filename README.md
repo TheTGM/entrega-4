@@ -113,8 +113,7 @@ evaluacion 4/
 ├── README.md
 ├── Ejercicio_1_Rendimiento_Academico.ipynb
 ├── Ejercicio_5_Abandono_Empleados.ipynb
-├── Ejercicio 1 student-mat.csv
-└── HR_comma_sep.csv
+└── Ejercicio 1 student-mat.csv
 ```
 
 ---
