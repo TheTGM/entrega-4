@@ -112,8 +112,7 @@ Según la asignación de ejercicios por grupo, a los **Equipos 1 y 8** les corre
 evaluacion 4/
 ├── README.md
 ├── Ejercicio_1_Rendimiento_Academico.ipynb
-├── Ejercicio_5_Abandono_Empleados.ipynb
-└── Ejercicio 1 student-mat.csv
+└── Ejercicio_5_Abandono_Empleados.ipynb
 ```
 
 ---
