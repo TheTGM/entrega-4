@@ -5,7 +5,7 @@
 **Departamento:** Sistemas
 **Docente:** Daniel Alexis Nieto Mora
 **Código del grupo:** 190304018-1
-**Periodo:** 2025-2
+**Periodo:** 2026-2
 
 ---
 
